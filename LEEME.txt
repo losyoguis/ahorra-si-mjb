@@ -1,0 +1,11 @@
+¡AHORRA SÍ! — Misión MJB 2026
+
+Abre index.html para visualizar el sitio, y subplataforma.html para registrar actividades y observaciones de agua y energía.
+
+Incluye módulo de diagnóstico energético basado en la Guía 2: tipo de luminaria, luz natural, equipos en espera y observación en dos momentos.
+
+Los registros quedan solo en el navegador (localStorage). No hay sincronización institucional, autenticación, ni conexión automática con SiMeCO₂ o el aplicativo oficial. Haz respaldos JSON periódicos.
+
+Para Google Sites aloja los HTML en HTTPS y utiliza Insertar > Incorporar > URL. Los enlaces relativos requieren mantener los dos archivos en el mismo directorio.
+
+No introducir datos sensibles de menores. Este es un prototipo operativo local.
